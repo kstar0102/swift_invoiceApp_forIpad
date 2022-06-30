@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (5.6.1)
+  - SwiftPhoneNumberFormatter (1.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftPhoneNumberFormatter
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SwiftPhoneNumberFormatter
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  SwiftPhoneNumberFormatter: 0cc91f4daa06dd606a9defb21048a75c36a771a2
+
+PODFILE CHECKSUM: 6dae85a7b8d865f3e2d5181175ab5f0662dce2b2
+
+COCOAPODS: 1.11.2
